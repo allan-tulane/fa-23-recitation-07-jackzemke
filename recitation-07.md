@@ -3,7 +3,7 @@
 Today we'll learn more about graphs and how to navigate them. As usual, code goes in `main.py`, and short answer in `answers.md`.
 
 
-**1** Let's assume we're using the "Map of Neighbors" representation for undirected graphs. The provided `make_undirected_graph` function will make a graph using this representation given a list of edge tuples. 
+**1)** Let's assume we're using the "Map of Neighbors" representation for undirected graphs. The provided `make_undirected_graph` function will make a graph using this representation given a list of edge tuples. 
 
 We'll start by implementing the `reachable` function, which identifies the set of nodes that are reachable from a given `start_node`.
 
